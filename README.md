@@ -19,10 +19,10 @@ Welcome to my little corner of GitHub!
 <p align="center">
 </p>
 
-I am a PhD candidate at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, under the supervision of Prof. Masatoshi Katabuchi.
-I am interested in forest structure, tree architectural diversity, and the ecological processes that shape forest communities at any scale.
+I am a PhD candidate at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, under the supervision of Prof. Masatoshi Katabuchi <https://mattocci27.github.io/>.
+I am interested in exploring how ecological processes shape forest structure, tree architectural diversity, and forest communities at any scale.
 My current research explores how trees grow, compete, and adjust their architecture under different ecological conditions using large forest datasets and Bayesian statistical models.
-I consider myself a lifelong beginner in ecology, always learning, questioning, and trying to understand nature a little better.
+I consider myself a lifelong learner in ecology, always questioning and trying to understand nature a little better.
 I am always happy to discuss ideas, exchange code, and collaborate on ecological and quantitative research.
 
 ## 🌱 Research interests
