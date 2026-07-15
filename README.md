@@ -3,7 +3,7 @@
 Welcome to my little corner of GitHub!
 
 <p align="center">
-  <img src="flower.jpeg" width="600">
+  <img src="im/flower.jpeg" width="600">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ Welcome to my little corner of GitHub!
 ## 🌳 About me
 
 <p align="center">
-  <img src="me.jpeg" width="600">
+  <img src="im/me.jpeg" width="200">
 </p>
 
 <p align="center">
@@ -29,11 +29,9 @@ I consider myself a lifelong beginner in ecology, always learning, questioning, 
 Outside research, I enjoy reading, especially the works of Kazuo Ishiguro, reflecting on new ideas, and spending time in nature.
 
 <p align="center">
-  <img src="profile.jpeg" width="600">
-</p>
-
-<p align="center">
-  me (Duyen)
+  <img src="im/book2.jpeg" width="250" hspace="10" alt="Reading">
+  <img src="im/me_sea.jpeg" width="250" hspace="10" alt="Sea">
+  <img src="im/inforest.jpeg" width="250" hspace="10" alt="Forest">
 </p>
 
 ## 🌱 Research interests
@@ -68,3 +66,5 @@ I am always happy to discuss ideas, exchange code, and collaborate on ecological
 Cheers!
 
 #### Duyen
+
+
