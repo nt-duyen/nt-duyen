@@ -34,7 +34,6 @@ I am always happy to discuss ideas, exchange code, and collaborate on ecological
 * 📊 Bayesian statistics
 
 ## 📫 Get in touch
-* 🌐 Website: nt-duyen.github.io
 * 📧 Email: ntduyenbio.edu.vn@gmail.com
 * 🏫 Institutional email: duyen@xtbg.ac.cn
 
