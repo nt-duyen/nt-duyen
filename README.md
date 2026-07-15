@@ -63,3 +63,12 @@ I enjoy reading, especially the works of Kazuo Ishiguro, reflecting on new ideas
 Cheers!
 
 #### Duyen
+
+
+<p align="center">
+  <img src="im/vn.gif" width="500" alt="Beautiful Vietnam">
+</p>
+
+<p align="center">
+  🇻🇳 <em>A little glimpse of the beautiful country I call home.</em>
+</p>
