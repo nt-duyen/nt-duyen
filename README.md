@@ -20,7 +20,7 @@ Welcome to my little corner of GitHub!
 </p>
 
 I am interested in exploring how ecological processes shape forest structure, tree architectural diversity, and forest communities at any scale.
-My current research explores how trees grow, compete, and adjust their architecture under different ecological conditions using large forest datasets and Bayesian statistical models.
+My current research examines how trees grow, compete, and adjust their architecture under different ecological conditions using large forest datasets and Bayesian statistical models.
 I consider myself a lifelong learner in ecology, always questioning and trying to understand nature a little better.
 I am always happy to discuss ideas, exchange code, and collaborate on ecological and quantitative research.
 
