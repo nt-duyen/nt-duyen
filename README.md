@@ -13,7 +13,7 @@ I consider myself a lifelong beginner in ecology, always learning, questioning, 
 
 Outside research, I enjoy reading, especially the works of Kazuo Ishiguro, reflecting on new ideas, and spending time in nature.
 
-### 🌱 Research interests
+## 🌱 Research interests
 
 * 🌳 Forest ecology
 * 📐 Tree architectural diversity
@@ -32,7 +32,7 @@ I am always happy to discuss ideas, exchange code, and collaborate on ecological
 * 🏫 Institutional email: duyen@xtbg.ac.cn
 
 
-### 🌿 A few things I believe
+## 🌿 A few things I believe
 
 “The best models are only as good as the ecological questions they help answer.”
 
