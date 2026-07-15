@@ -3,7 +3,7 @@
 Welcome to my little corner of GitHub!
 
 <p align="center">
-  <img src="images/MG_0686.jpg" width="600">
+  <img src="flower.jpeg" width="600">
 </p>
 
 <p align="center">
@@ -12,6 +12,14 @@ Welcome to my little corner of GitHub!
 
 ## 🌳 About me
 
+<p align="center">
+  <img src="me.jpeg" width="600">
+</p>
+
+<p align="center">
+  me (Duyen)
+</p>
+
 I am a PhD candidate at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, under the supervision of Prof. Masatoshi Katabuchi.
 
 I am interested in forest structure, tree architectural diversity, and the ecological processes that shape forest communities at any scale. My current research explores how trees grow, compete, and adjust their architecture under different ecological conditions using large forest datasets and Bayesian statistical models.
@@ -19,6 +27,14 @@ I am interested in forest structure, tree architectural diversity, and the ecolo
 I consider myself a lifelong beginner in ecology, always learning, questioning, and trying to understand nature a little better.
 
 Outside research, I enjoy reading, especially the works of Kazuo Ishiguro, reflecting on new ideas, and spending time in nature.
+
+<p align="center">
+  <img src="profile.jpeg" width="600">
+</p>
+
+<p align="center">
+  me (Duyen)
+</p>
 
 ## 🌱 Research interests
 
