@@ -2,6 +2,8 @@
 
 Welcome to my little corner of GitHub!
 
+<img src="im/fl.jpg" width="250">  
+*Cypripedium tibeticum* in Sichuan, China (photo was taken by me (Thi Duyen Nguyen)
 
 ## 🌳 About me
 
